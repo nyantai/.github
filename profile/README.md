@@ -1,4 +1,4 @@
-**santai** /san·tai/ *adj.* free from tension; in a relaxed and leisurely state: *he sits -- on his front porch;*
+**[santai](https://kbbi.web.id/santai)** /san·tai/ *adj.* free from tension; in a relaxed and leisurely state: *he sits -- on his front porch;*
 
 This organization is my personal workspace for software projects built without the pressure of formal deadlines or commercial constraints. I use this space to build tools that are fast, small, and robust, while maintaining a state of "leisure." My focus is on high-performance infrastructure, low-level serialization, and runtime experiments. I believe that engineering doesn't have to be exhausting to be effective; some of the most efficient patterns I have found emerged during these relaxed periods, where I could focus on technical details without a ticking clock.
 
